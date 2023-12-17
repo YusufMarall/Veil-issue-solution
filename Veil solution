@@ -1,0 +1,5 @@
+pip3 uninstall pycrypto && pip3 install pycryptodome
+
+Same issue with Crypto:
+
+Install Crypto via pip3 install Crypto   ./veil  you can run the application using
